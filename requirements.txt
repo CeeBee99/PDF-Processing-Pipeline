@@ -1,0 +1,8 @@
+fastapi
+httpx
+pytest
+pytest-cov
+uvicorn
+python-multipart
+PyPDF2
+Whoosh

@@ -6,9 +6,13 @@ Users can upload, list, and download PDF files with data persistence guaranteed 
 Features
 
 Upload PDF files via REST API
+
 List and download stored PDFs
+
 Persistent storage using Kubernetes Volumes
+
 Containerized with Docker
+
 Declarative infrastructure via Kubernetes YAML manifests
 
 Architecture
